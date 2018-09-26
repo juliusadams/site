@@ -1,0 +1,55 @@
+.navbar {
+    margin-top:50px;
+    margin-right:70px;
+    max-height: 50px;
+    max-width: 50px;
+}   
+
+@media(max-width: 580px ){
+   
+    
+}
+@media (max-width: 767px) {
+    .navbar-toggler{
+        margin-top: -150px;
+    
+    }  
+    .navbar-brand{
+        margin-bottom: -100px;
+    }  
+
+    .tiles{
+        margin-left: 50px;
+    }
+
+
+@media(min-width: 992px) and (max-width: 1199px){
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navbar-toggler{
+        margin-top: -10px;
+    
+    }  
+}
+
+.footer{
+    position:fixed;
+    bottom:0;
+    text-align: center;
+    left:50%;
+}
+#picture-tiles{
+    height: 250px;
+    width: 100%;
+    margin-bottom: 15px;
+    position: relative;
+    border: 2px;
+    overflow: hidden;
+    margin-top:20px; 
+    margin-bottom:20px; 
+   
+
+}
+}

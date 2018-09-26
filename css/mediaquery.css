@@ -1,0 +1,17 @@
+/* general styles */
+
+
+/*iphone 5 */
+@media(max-width: 480px) {}
+
+/*iphone 6plus */
+@media(min-width: 481px) and (max-width: 767px) {}
+
+/*tablets and ipad */
+@media(min-width: 768px) and (max-width : 1024) {}
+
+/*laptops and ipads with high resoluton */
+@media(min-width : 1025px) and (max-width:1280px) {}
+
+/*laptops*/
+@media(min-width: 1281px) {}
